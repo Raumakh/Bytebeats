@@ -6,7 +6,7 @@ Features:-
 
 Basic arithmetic operations: Addition, Subtraction, Multiplication, and Division. 
 
-Supports Exponentiation (Power) and Square Root calculations. 
+Newer files (all after Simplcalc3.py) supports Exponentiation (Power) and Square Root calculations. 
 
 File versions (Newest to oldest	⬇️) :-
 1. CALCULATOR.py
